@@ -1,4 +1,8 @@
 kedvencfilm
 foszereplok:Hugh Jackman Dakota Goyo
 2011 Amerika
+<<<<<<< HEAD
 Mindenki szereti a robotharcot, ez most egy nagyon felkapott sz¢rakoz s. Charlie Kenton is robotokkal foglalkozik, megveszi ‚s ”sszefoltozza ‹ket a harcokra. Nagy p‚nzeket lehet szak¡tani az illeg lis robot boksz versenyeken, de Charlie-nak nem igaz n alakulnak j¢l a dolgai, sok ad¢ss ga van. R ad sul most m‚g a gyerek‚re is neki kell vigy znia, akit eddig m‚g nem nagyon l tott soha. A 11 ‚ves Max nem is nagyon tal lja a k”z”s hangot az apj val, de ‹ is nagyon szereti a robotharcot, ez‚rt a k”z”s ‚rdekl‹d‚s ”sszekov csolja ‹ket. K”z”sen ”sszet kolnak egy £j robotot, akivel hatalmas sikereket ‚rnek el. Bejutnak a legrangosabb versenyre is, ahol a legjobb robottal, Zeusszal kzdhetnek meg.
+=======
+rendezok:Shawn Levy
+>>>>>>> 3cea685b93be231f24ce7b0cac3a43991d74e495
